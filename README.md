@@ -3,7 +3,7 @@ Meu nome é Uryel Toniolli
 
 Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na **linguagem JavaScript**
 
 ![](https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif)
 
