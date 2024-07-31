@@ -4,7 +4,8 @@ Meu nome é Uryel Toniolli
 Estou estudando na Alura
 
 Estou me desenvolvendo na linguagem JavaScript
-![] https://images.app.goo.gl/CytX9Z5RzMpuxKcc9
+
+![] (https://images.app.goo.gl/CytX9Z5RzMpuxKcc9)
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
