@@ -5,7 +5,7 @@ Estou estudando na Alura
 
 Estou me desenvolvendo na linguagem JavaScript
 
-![]("https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz">via GIPHY</a></p>)
+![](https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif)
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
