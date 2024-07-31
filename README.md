@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu nome é Uryel TOniolli
+Meu nome é Uryel Toniolli
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
