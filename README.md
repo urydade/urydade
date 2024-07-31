@@ -12,6 +12,7 @@ Você pode entrar em contato comigo 📫
 
 00001132685709sp@al.educacao.sp.gov.br
 
+> Escrito por Uryel
 <!--
 **urydade/urydade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
